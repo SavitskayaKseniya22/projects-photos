@@ -5,7 +5,10 @@
     "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/react/final-task-project-management-app.md",
     "date": "08.11.1993-08.11.1993",
     "screenshots": [
-      "https://private-user-images.githubusercontent.com/77901301/253778925-89a4f244-c45d-4135-85b4-5ea481c11673.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE0NzkwODksIm5iZiI6MTcwMTQ3ODc4OSwicGF0aCI6Ii83NzkwMTMwMS8yNTM3Nzg5MjUtODlhNGYyNDQtYzQ1ZC00MTM1LTg1YjQtNWVhNDgxYzExNjczLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjAyVDAwNTk0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlYjE0YTgzNTlmY2I1NzJhMGViYmYwZGI2MzkxZDRjOTM3NzRlNjg0ODQ5Y2RlNTZmYmQyMGRjYjdjMGVmNzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2Jvr3qcHXVFZn9Ba844zR117ASMXSdx7g2Qe_vo0T3s"
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/kanban/main-menu.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/kanban/board.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/kanban/auth.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/kanban/table.png"
     ],
     "deploy": "https://project-management-app-6c958.web.app/",
     "github": "https://github.com/SavitskayaKseniya22/kanban-app",
@@ -55,7 +58,11 @@
     "description": "Racing arcade",
     "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md",
     "date": "08.11.1993-08.11.1993",
-    "screenshots": [],
+    "screenshots": [
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/async-race/main-menu.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/async-race/game-result.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/async-race/race-result.png"
+    ],
     "deploy": "https://savitskayakseniya22.github.io/async-race",
     "github": "https://github.com/SavitskayaKseniya22/async-race",
     "instruments": [
@@ -74,7 +81,11 @@
     "description": "Quiz on the knowledge of masterpieces of painting and their authors.",
     "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/art-quiz/art-quiz.md",
     "date": "08.11.1993-08.11.1993",
-    "screenshots": [],
+    "screenshots": [
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/art-quiz/main-menu.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/art-quiz/sub-menu.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/art-quiz/quiz.png"
+    ],
     "deploy": "https://art-quiz-2.netlify.app/",
     "github": "https://github.com/SavitskayaKseniya22/art-quiz2.0",
     "instruments": [
@@ -94,7 +105,10 @@
     "description": "An analogue of the app of the same name in the Chrome Web Store.",
     "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/momentum/momentum.md",
     "date": "08.11.1993-08.11.1993",
-    "screenshots": [],
+    "screenshots": [
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/momentum/main-1.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/momentum/main-2.png"
+    ],
     "deploy": "https://momentum-two-point-zero.netlify.app/",
     "github": "https://github.com/SavitskayaKseniya22/momentum",
     "instruments": [
@@ -133,7 +147,11 @@
     "description": "An application that will allow you to select New Year's decorations and decorate the Christmas tree with the selected toys.",
     "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/christmas-task/christmas-task.md",
     "date": "08.11.1993-08.11.1993",
-    "screenshots": [],
+    "screenshots": [
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/christmas-tree/main-menu.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/christmas-tree/game.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/christmas-tree/shop.png"
+    ],
     "deploy": "https://savitskayakseniya22.github.io/christmas-tree/",
     "github": "https://github.com/SavitskayaKseniya22/christmas-tree",
     "instruments": [
@@ -151,7 +169,10 @@
     "description": "Minesweeper is a logic puzzle video game. Style - Fallout - popular video game",
     "task": "https://github.com/rolling-scopes-school/tasks/tree/master/tasks/minesweeper",
     "date": "08.11.1993-08.11.1993",
-    "screenshots": [],
+    "screenshots": [
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/fallout-minesweeper/main-menu.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/fallout-minesweeper/game.png"
+    ],
     "deploy": "https://fallout-minesweeper.netlify.app/",
     "github": "https://github.com/SavitskayaKseniya22/minesweeper",
     "instruments": [
@@ -174,7 +195,9 @@
     "description": "Simple virtual keyboard",
     "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/virtual-keyboard/virtual-keyboard-en.md",
     "date": "08.11.1993-08.11.1993",
-    "screenshots": [],
+    "screenshots": [
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/virtual-keyboard/keyboard.png"
+    ],
     "deploy": "https://savitskayakseniya22.github.io/virtual-keyboard/virtual-keyboard/",
     "github": "https://github.com/SavitskayaKseniya22/virtual-keyboard",
     "instruments": ["javascript", "eslint", "sass"]
