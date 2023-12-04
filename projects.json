@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Kanban",
+    "description": "An app for planning tasks and tracking their progress",
+    "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/react/final-task-project-management-app.md",
+    "date": "08.11.1993-08.11.1993",
+    "screenshots": [
+      "https://private-user-images.githubusercontent.com/77901301/253778925-89a4f244-c45d-4135-85b4-5ea481c11673.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE0NzkwODksIm5iZiI6MTcwMTQ3ODc4OSwicGF0aCI6Ii83NzkwMTMwMS8yNTM3Nzg5MjUtODlhNGYyNDQtYzQ1ZC00MTM1LTg1YjQtNWVhNDgxYzExNjczLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjAyVDAwNTk0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlYjE0YTgzNTlmY2I1NzJhMGViYmYwZGI2MzkxZDRjOTM3NzRlNjg0ODQ5Y2RlNTZmYmQyMGRjYjdjMGVmNzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2Jvr3qcHXVFZn9Ba844zR117ASMXSdx7g2Qe_vo0T3s"
+    ],
+    "deploy": "https://project-management-app-6c958.web.app/",
+    "github": "https://github.com/SavitskayaKseniya22/kanban-app",
+    "instruments": [
+      "react",
+      "create-react-app",
+      "typeScript",
+      "redux",
+      "styledComponents",
+      "eslint",
+      "prettier",
+      "firebase",
+      "react-beautiful-dnd",
+      "i18next",
+      "react-hook-form",
+      "react-toastify",
+      "lint-staged",
+      "husky"
+    ]
+  },
+  {
+    "name": "Remember moments app",
+    "description": "Travel planning app",
+    "task": "",
+    "date": "08.11.1993-08.11.1993",
+    "screenshots": [],
+    "deploy": "",
+    "github": "https://github.com/SavitskayaKseniya22/remember-moments-app",
+    "instruments": [
+      "react",
+      "create-react-app",
+      "typeScript",
+      "redux",
+      "styledComponents",
+      "eslint",
+      "prettier",
+      "firebase",
+      "i18next",
+      "react-hook-form",
+      "react-toastify",
+      "lint-staged",
+      "husky"
+    ]
+  },
+  {
+    "name": "Async race",
+    "description": "Racing arcade",
+    "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md",
+    "date": "08.11.1993-08.11.1993",
+    "screenshots": [],
+    "deploy": "https://savitskayakseniya22.github.io/async-race",
+    "github": "https://github.com/SavitskayaKseniya22/async-race",
+    "instruments": [
+      "javascript",
+      "typeScript",
+      "eslint",
+      "prettier",
+      "gh-pages",
+      "sass",
+      "boxicons",
+      "normalize.css"
+    ]
+  },
+  {
+    "name": "Art quiz",
+    "description": "Quiz on the knowledge of masterpieces of painting and their authors.",
+    "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/art-quiz/art-quiz.md",
+    "date": "08.11.1993-08.11.1993",
+    "screenshots": [],
+    "deploy": "https://art-quiz-2.netlify.app/",
+    "github": "https://github.com/SavitskayaKseniya22/art-quiz2.0",
+    "instruments": [
+      "javascript",
+      "typeScript",
+      "eslint",
+      "prettier",
+      "gh-pages",
+      "sass",
+      "boxicons",
+      "normalize.css",
+      "i18next"
+    ]
+  },
+  {
+    "name": "Momentum",
+    "description": "An analogue of the app of the same name in the Chrome Web Store.",
+    "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/momentum/momentum.md",
+    "date": "08.11.1993-08.11.1993",
+    "screenshots": [],
+    "deploy": "https://momentum-two-point-zero.netlify.app/",
+    "github": "https://github.com/SavitskayaKseniya22/momentum",
+    "instruments": [
+      "javascript",
+      "typeScript",
+      "eslint",
+      "prettier",
+      "gh-pages",
+      "boxicons",
+      "normalize.css",
+      "i18next"
+    ]
+  },
+  {
+    "name": "Museum",
+    "description": "Landing page of the Louvre, one of the largest and most popular art museums in the world.",
+    "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum.md",
+    "date": "08.11.1993-08.11.1993",
+    "screenshots": [],
+    "deploy": "https://savitskayakseniya22.github.io/museum/museum-dom/",
+    "github": "https://github.com/SavitskayaKseniya22/museum",
+    "instruments": ["javascript", "sass"]
+  },
+  {
+    "name": "Shelter",
+    "description": "Landing page of the Shelter",
+    "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter.md",
+    "date": "08.11.1993-08.11.1993",
+    "screenshots": [],
+    "deploy": "https://rolling-scopes-school.github.io/savitskayakseniya22-JSFE2023Q1/shelter/pages/main/",
+    "github": "https://github.com/SavitskayaKseniya22/shelter",
+    "instruments": ["javascript", "sass"]
+  },
+  {
+    "name": "Christmas tree",
+    "description": "An application that will allow you to select New Year's decorations and decorate the Christmas tree with the selected toys.",
+    "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/christmas-task/christmas-task.md",
+    "date": "08.11.1993-08.11.1993",
+    "screenshots": [],
+    "deploy": "https://savitskayakseniya22.github.io/christmas-tree/",
+    "github": "https://github.com/SavitskayaKseniya22/christmas-tree",
+    "instruments": [
+      "javascript",
+      "typescript",
+      "sass",
+      "prettier",
+      "nouislider",
+      "gh-pages",
+      "eslint"
+    ]
+  },
+  {
+    "name": "Fallout minesweeper",
+    "description": "Minesweeper is a logic puzzle video game. Style - Fallout - popular video game",
+    "task": "https://github.com/rolling-scopes-school/tasks/tree/master/tasks/minesweeper",
+    "date": "08.11.1993-08.11.1993",
+    "screenshots": [],
+    "deploy": "https://fallout-minesweeper.netlify.app/",
+    "github": "https://github.com/SavitskayaKseniya22/minesweeper",
+    "instruments": [
+      "react",
+      "create-react-app",
+      "typeScript",
+      "fontawesome",
+      "jest",
+      "redux",
+      "styledComponents",
+      "eslint",
+      "prettier",
+      "react-hook-form",
+      "lint-staged",
+      "husky"
+    ]
+  },
+  {
+    "name": "Virtual keyboard",
+    "description": "Simple virtual keyboard",
+    "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/virtual-keyboard/virtual-keyboard-en.md",
+    "date": "08.11.1993-08.11.1993",
+    "screenshots": [],
+    "deploy": "https://savitskayakseniya22.github.io/virtual-keyboard/virtual-keyboard/",
+    "github": "https://github.com/SavitskayaKseniya22/virtual-keyboard",
+    "instruments": ["javascript", "eslint", "sass"]
+  }
+]
