@@ -136,11 +136,25 @@
     "name": "Shelter",
     "description": "Landing page of the Shelter",
     "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter.md",
-    "date": "08.11.1993-08.11.1993",
-    "screenshots": [],
-    "deploy": "https://rolling-scopes-school.github.io/savitskayakseniya22-JSFE2023Q1/shelter/pages/main/",
+    "date": "05.12.2023-12.12.2023",
+    "screenshots": [
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/shelter/shelter-395.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/shelter/shelter-809.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/shelter/shelter-1920.png"
+    ],
+    "deploy": "https://shelter-lemon.vercel.app/",
     "github": "https://github.com/SavitskayaKseniya22/shelter",
-    "instruments": ["javascript", "sass"]
+    "instruments": [
+      "javascript",
+      "typeScript",
+      "sass",
+      "prettier",
+      "eslint",
+      "normalize.css",
+      "react",
+      "next",
+      "heroicons"
+    ]
   },
   {
     "name": "Christmas tree",
