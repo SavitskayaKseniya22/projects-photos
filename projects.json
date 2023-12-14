@@ -3,7 +3,7 @@
     "name": "Kanban",
     "description": "An app for planning tasks and tracking their progress",
     "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/react/final-task-project-management-app.md",
-    "date": "08.11.1993-08.11.1993",
+    "date": ["17.08.2023", "29.09.2023"],
     "screenshots": [
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/kanban/main-menu.png",
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/kanban/board.png",
@@ -34,7 +34,7 @@
     "name": "Remember moments app",
     "description": "Travel planning app",
     "task": "",
-    "date": "08.11.1993-08.11.1993",
+    "date": ["05.05.2023", "29.12.2023"],
     "screenshots": [],
     "deploy": "",
     "github": "https://github.com/SavitskayaKseniya22/remember-moments-app",
@@ -59,7 +59,7 @@
     "name": "Async race",
     "description": "Racing arcade",
     "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md",
-    "date": "08.11.1993-08.11.1993",
+    "date": ["01.08.2023", "04.08.2023"],
     "screenshots": [
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/async-race/main-menu.png",
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/async-race/game-result.png",
@@ -83,7 +83,7 @@
     "name": "Art quiz",
     "description": "Quiz on the knowledge of masterpieces of painting and their authors.",
     "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/art-quiz/art-quiz.md",
-    "date": "08.11.1993-08.11.1993",
+    "date": ["20.07.2023", "01.08.2023"],
     "screenshots": [
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/art-quiz/main-menu.png",
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/art-quiz/sub-menu.png",
@@ -108,7 +108,7 @@
     "name": "Momentum",
     "description": "An analogue of the app of the same name in the Chrome Web Store.",
     "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/momentum/momentum.md",
-    "date": "08.11.1993-08.11.1993",
+    "date": ["01.07.2023", "19.07.2023"],
     "screenshots": [
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/momentum/main-1.png",
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/momentum/main-2.png"
@@ -131,7 +131,7 @@
     "name": "Museum",
     "description": "Landing page of the Louvre, one of the largest and most popular art museums in the world.",
     "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum.md",
-    "date": "08.11.1993-08.11.1993",
+    "date": ["15.12.2023", "29.12.2023"],
     "screenshots": [],
     "deploy": "https://savitskayakseniya22.github.io/museum/museum-dom/",
     "github": "https://github.com/SavitskayaKseniya22/museum",
@@ -142,7 +142,7 @@
     "name": "Shelter",
     "description": "Landing page of the Shelter",
     "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter.md",
-    "date": "05.12.2023-12.12.2023",
+    "date": ["05.12.2023", "12.12.2023"],
     "screenshots": [
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/shelter/shelter-395.png",
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/shelter/shelter-809.png",
@@ -167,7 +167,7 @@
     "name": "Christmas tree",
     "description": "An application that will allow you to select New Year's decorations and decorate the Christmas tree with the selected toys.",
     "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/christmas-task/christmas-task.md",
-    "date": "08.11.1993-08.11.1993",
+    "date": ["10.12.2021", "10.01.2022"],
     "screenshots": [
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/christmas-tree/main-menu.png",
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/christmas-tree/game.png",
@@ -190,7 +190,7 @@
     "name": "Fallout minesweeper",
     "description": "Minesweeper is a logic puzzle video game. Style - Fallout - popular video game",
     "task": "https://github.com/rolling-scopes-school/tasks/tree/master/tasks/minesweeper",
-    "date": "08.11.1993-08.11.1993",
+    "date": ["21.05.2023", "17.06.2023"],
     "screenshots": [
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/fallout-minesweeper/main-menu.png",
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/fallout-minesweeper/game.png"
@@ -217,7 +217,7 @@
     "name": "Virtual keyboard",
     "description": "Simple virtual keyboard",
     "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/virtual-keyboard/virtual-keyboard-en.md",
-    "date": "08.11.1993-08.11.1993",
+    "date": ["18.04.2023", "01.05.2023"],
     "screenshots": [
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/virtual-keyboard/keyboard.png"
     ],
@@ -225,5 +225,60 @@
     "github": "https://github.com/SavitskayaKseniya22/virtual-keyboard",
     "instruments": ["javascript", "eslint", "sass"],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/virtual-keyboard/preview.png"
+  },
+  {
+    "name": "CV",
+    "description": "CV",
+    "task": "",
+    "date": ["27.11.2023", "29.12.2023"],
+    "screenshots": [],
+    "deploy": "",
+    "github": "https://github.com/SavitskayaKseniya22/cv",
+    "instruments": [],
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/portfolio/preview.png"
+  },
+  {
+    "name": "Lang app",
+    "description": "App for learning English through games",
+    "task": "",
+    "date": ["29.09.2023", "27.11.2023"],
+    "screenshots": [],
+    "deploy": "",
+    "github": "https://github.com/SavitskayaKseniya22/lang-app",
+    "instruments": [],
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/lang-app/preview.png"
+  },
+  {
+    "name": "Logi mouse",
+    "description": "Logitech mouse advertising landing page",
+    "task": "",
+    "date": ["08.03.2021", "15.03.2021"],
+    "screenshots": [],
+    "deploy": "",
+    "github": "https://github.com/SavitskayaKseniya22/Logi_mouse",
+    "instruments": [],
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/logi-mouse/preview.png"
+  },
+  {
+    "name": "Technomart",
+    "description": "Landing page for Technomart store",
+    "task": "",
+    "date": ["01.03.2021", "8.03.2021"],
+    "screenshots": [],
+    "deploy": "",
+    "github": "https://github.com/SavitskayaKseniya22/Technomart",
+    "instruments": [],
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/technomart/preview.png"
+  },
+  {
+    "name": "Gllacy",
+    "description": "Landing page for icecream store",
+    "task": "",
+    "date": ["01.02.2021", "20.02.2021"],
+    "screenshots": [],
+    "deploy": "",
+    "github": "https://github.com/SavitskayaKseniya22/Gllacy",
+    "instruments": [],
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/gllacy/preview.png"
   }
 ]
