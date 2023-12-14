@@ -27,7 +27,8 @@
       "react-toastify",
       "lint-staged",
       "husky"
-    ]
+    ],
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/kanban/preview.png"
   },
   {
     "name": "Remember moments app",
@@ -51,7 +52,8 @@
       "react-toastify",
       "lint-staged",
       "husky"
-    ]
+    ],
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/remember-moments-app/preview.png"
   },
   {
     "name": "Async race",
@@ -74,7 +76,8 @@
       "sass",
       "boxicons",
       "normalize.css"
-    ]
+    ],
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/async-race/preview.png"
   },
   {
     "name": "Art quiz",
@@ -98,7 +101,8 @@
       "boxicons",
       "normalize.css",
       "i18next"
-    ]
+    ],
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/art-quiz/preview.png"
   },
   {
     "name": "Momentum",
@@ -120,7 +124,8 @@
       "boxicons",
       "normalize.css",
       "i18next"
-    ]
+    ],
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/momentum/preview.png"
   },
   {
     "name": "Museum",
@@ -130,7 +135,8 @@
     "screenshots": [],
     "deploy": "https://savitskayakseniya22.github.io/museum/museum-dom/",
     "github": "https://github.com/SavitskayaKseniya22/museum",
-    "instruments": ["javascript", "sass"]
+    "instruments": ["javascript", "sass"],
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/museum/preview.png"
   },
   {
     "name": "Shelter",
@@ -154,7 +160,8 @@
       "react",
       "next",
       "heroicons"
-    ]
+    ],
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/shelter/preview.png"
   },
   {
     "name": "Christmas tree",
@@ -176,7 +183,8 @@
       "nouislider",
       "gh-pages",
       "eslint"
-    ]
+    ],
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/christmas-tree/preview.png"
   },
   {
     "name": "Fallout minesweeper",
@@ -202,7 +210,8 @@
       "react-hook-form",
       "lint-staged",
       "husky"
-    ]
+    ],
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/fallout-minesweeper/preview.png"
   },
   {
     "name": "Virtual keyboard",
@@ -214,6 +223,7 @@
     ],
     "deploy": "https://savitskayakseniya22.github.io/virtual-keyboard/virtual-keyboard/",
     "github": "https://github.com/SavitskayaKseniya22/virtual-keyboard",
-    "instruments": ["javascript", "eslint", "sass"]
+    "instruments": ["javascript", "eslint", "sass"],
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/virtual-keyboard/preview.png"
   }
 ]
