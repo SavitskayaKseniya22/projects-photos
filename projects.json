@@ -160,7 +160,17 @@
       "react-redux"
     ],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/museum/preview.png",
-    "complexity": 2
+    "complexity": 3,
+    "features": [
+      "gallery carousel",
+      "burger menu",
+      "custom player and playlist carousel",
+      "modal",
+      "Google panoramas",
+      "tickets purchase form",
+      "block with parallax effect",
+      "map"
+    ]
   },
   {
     "name": "Shelter",
@@ -187,7 +197,8 @@
       "heroicons"
     ],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/shelter/preview.png",
-    "complexity": 2
+    "complexity": 2,
+    "features": ["animals carousel", "modal", "burger menu", "pagination"]
   },
   {
     "name": "Christmas tree",
@@ -263,7 +274,7 @@
     "screenshots": [],
     "deploy": "",
     "github": "https://github.com/SavitskayaKseniya22/cv",
-    "instruments": [],
+    "instruments": ["mapbox-gl"],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/portfolio/preview.png",
     "complexity": 2
   },
