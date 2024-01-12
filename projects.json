@@ -28,7 +28,8 @@
       "lint-staged",
       "husky"
     ],
-    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/kanban/preview.png"
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/kanban/preview.png",
+    "complexity": 5
   },
   {
     "name": "Remember moments app",
@@ -53,7 +54,8 @@
       "lint-staged",
       "husky"
     ],
-    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/remember-moments-app/preview.png"
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/remember-moments-app/preview.png",
+    "complexity": 5
   },
   {
     "name": "Async race",
@@ -77,7 +79,8 @@
       "boxicons",
       "normalize.css"
     ],
-    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/async-race/preview.png"
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/async-race/preview.png",
+    "complexity": 4
   },
   {
     "name": "Art quiz",
@@ -102,7 +105,8 @@
       "normalize.css",
       "i18next"
     ],
-    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/art-quiz/preview.png"
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/art-quiz/preview.png",
+    "complexity": 3
   },
   {
     "name": "Momentum",
@@ -125,7 +129,8 @@
       "normalize.css",
       "i18next"
     ],
-    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/momentum/preview.png"
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/momentum/preview.png",
+    "complexity": 2
   },
   {
     "name": "Museum",
@@ -154,7 +159,8 @@
       "mapbox-gl",
       "react-redux"
     ],
-    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/museum/preview.png"
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/museum/preview.png",
+    "complexity": 2
   },
   {
     "name": "Shelter",
@@ -180,7 +186,8 @@
       "next",
       "heroicons"
     ],
-    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/shelter/preview.png"
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/shelter/preview.png",
+    "complexity": 2
   },
   {
     "name": "Christmas tree",
@@ -203,7 +210,8 @@
       "gh-pages",
       "eslint"
     ],
-    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/christmas-tree/preview.png"
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/christmas-tree/preview.png",
+    "complexity": 3
   },
   {
     "name": "Fallout minesweeper",
@@ -230,7 +238,8 @@
       "lint-staged",
       "husky"
     ],
-    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/fallout-minesweeper/preview.png"
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/fallout-minesweeper/preview.png",
+    "complexity": 3
   },
   {
     "name": "Virtual keyboard",
@@ -243,7 +252,8 @@
     "deploy": "https://savitskayakseniya22.github.io/virtual-keyboard/virtual-keyboard/",
     "github": "https://github.com/SavitskayaKseniya22/virtual-keyboard",
     "instruments": ["javascript", "eslint", "sass"],
-    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/virtual-keyboard/preview.png"
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/virtual-keyboard/preview.png",
+    "complexity": 2
   },
   {
     "name": "CV",
@@ -254,7 +264,8 @@
     "deploy": "",
     "github": "https://github.com/SavitskayaKseniya22/cv",
     "instruments": [],
-    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/portfolio/preview.png"
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/portfolio/preview.png",
+    "complexity": 2
   },
   {
     "name": "Lang app",
@@ -265,7 +276,8 @@
     "deploy": "",
     "github": "https://github.com/SavitskayaKseniya22/lang-app",
     "instruments": [],
-    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/lang-app/preview.png"
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/lang-app/preview.png",
+    "complexity": 5
   },
   {
     "name": "Logi mouse",
@@ -276,7 +288,8 @@
     "deploy": "",
     "github": "https://github.com/SavitskayaKseniya22/Logi_mouse",
     "instruments": [],
-    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/logi-mouse/preview.png"
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/logi-mouse/preview.png",
+    "complexity": 1
   },
   {
     "name": "Technomart",
@@ -287,7 +300,8 @@
     "deploy": "",
     "github": "https://github.com/SavitskayaKseniya22/Technomart",
     "instruments": [],
-    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/technomart/preview.png"
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/technomart/preview.png",
+    "complexity": 1
   },
   {
     "name": "Gllacy",
@@ -298,6 +312,7 @@
     "deploy": "",
     "github": "https://github.com/SavitskayaKseniya22/Gllacy",
     "instruments": [],
-    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/gllacy/preview.png"
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/gllacy/preview.png",
+    "complexity": 1
   }
 ]
