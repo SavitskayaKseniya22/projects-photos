@@ -15,9 +15,9 @@
     "instruments": [
       "react",
       "create-react-app",
-      "typeScript",
+      "typescript",
       "redux",
-      "styledComponents",
+      "styled-components",
       "eslint",
       "prettier",
       "firebase",
@@ -41,9 +41,9 @@
     "instruments": [
       "react",
       "create-react-app",
-      "typeScript",
+      "typescript",
       "redux",
-      "styledComponents",
+      "styled-components",
       "eslint",
       "prettier",
       "firebase",
@@ -69,7 +69,7 @@
     "github": "https://github.com/SavitskayaKseniya22/async-race",
     "instruments": [
       "javascript",
-      "typeScript",
+      "typescript",
       "eslint",
       "prettier",
       "gh-pages",
@@ -93,7 +93,7 @@
     "github": "https://github.com/SavitskayaKseniya22/art-quiz2.0",
     "instruments": [
       "javascript",
-      "typeScript",
+      "typescript",
       "eslint",
       "prettier",
       "gh-pages",
@@ -117,7 +117,7 @@
     "github": "https://github.com/SavitskayaKseniya22/momentum",
     "instruments": [
       "javascript",
-      "typeScript",
+      "typescript",
       "eslint",
       "prettier",
       "gh-pages",
@@ -131,11 +131,29 @@
     "name": "Museum",
     "description": "Landing page of the Louvre, one of the largest and most popular art museums in the world.",
     "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum.md",
-    "date": ["15.12.2023", "29.12.2023"],
-    "screenshots": [],
-    "deploy": "https://savitskayakseniya22.github.io/museum/museum-dom/",
+    "date": ["15.12.2023", "12.01.2024"],
+    "screenshots": [
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/museum/museum-2560px.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/museum/museum-1280px.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/museum/museum-768px.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/museum/museum-420px.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/museum/modal-form.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/museum/modal-panorama.png"
+    ],
+    "deploy": "https://museum-liart.vercel.app/",
     "github": "https://github.com/SavitskayaKseniya22/museum",
-    "instruments": ["javascript", "sass"],
+    "instruments": [
+      "javascript",
+      "sass",
+      "typescript",
+      "eslint",
+      "prettier",
+      "normalize.css",
+      "react-hook-form",
+      "next",
+      "mapbox-gl",
+      "react-redux"
+    ],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/museum/preview.png"
   },
   {
@@ -146,13 +164,14 @@
     "screenshots": [
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/shelter/shelter-395.png",
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/shelter/shelter-809.png",
-      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/shelter/shelter-1920.png"
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/shelter/shelter-1920.png",
+      "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/shelter/modal-animal.png"
     ],
     "deploy": "https://shelter-lemon.vercel.app/",
     "github": "https://github.com/SavitskayaKseniya22/shelter",
     "instruments": [
       "javascript",
-      "typeScript",
+      "typescript",
       "sass",
       "prettier",
       "eslint",
@@ -200,11 +219,11 @@
     "instruments": [
       "react",
       "create-react-app",
-      "typeScript",
+      "typescript",
       "fontawesome",
       "jest",
       "redux",
-      "styledComponents",
+      "styled-components",
       "eslint",
       "prettier",
       "react-hook-form",
