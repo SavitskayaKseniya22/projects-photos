@@ -113,7 +113,16 @@
       "i18next"
     ],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/art-quiz/preview.png",
-    "complexity": 3
+    "complexity": 3,
+    "features": [
+      "sounds and music settings",
+      "saved result after game",
+      "timer for an answer",
+      "internationalization",
+      "given answers sequence",
+      "two types game",
+      "result"
+    ]
   },
   {
     "name": "Momentum",
