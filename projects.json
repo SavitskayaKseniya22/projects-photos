@@ -140,14 +140,13 @@
     "complexity": 2,
     "features": [
       "clock",
-      "castom music player",
+      "custom music player",
       "weather",
       "to do list",
       "three sources for background",
       "internationalization",
       "random quote",
-      "changing visibility for blocks",
-      "saved settings"
+      "changing visibility for blocks"
     ]
   },
   {
