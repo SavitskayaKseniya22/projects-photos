@@ -29,7 +29,14 @@
       "husky"
     ],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/kanban/preview.png",
-    "complexity": 5
+    "complexity": 5,
+    "features": [
+      "internationalization",
+      "autorization",
+      "drag and drop for columns and tasks",
+      "creation for users, columns and tasks",
+      "making changes to already made data"
+    ]
   },
   {
     "name": "Remember moments app",
@@ -130,7 +137,18 @@
       "i18next"
     ],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/momentum/preview.png",
-    "complexity": 2
+    "complexity": 2,
+    "features": [
+      "clock",
+      "castom music player",
+      "weather",
+      "to do list",
+      "three sources for background",
+      "internationalization",
+      "random quote",
+      "changing visibility for blocks",
+      "saved settings"
+    ]
   },
   {
     "name": "Museum",
@@ -166,10 +184,10 @@
       "burger menu",
       "custom player and playlist carousel",
       "modal",
-      "Google panoramas",
       "tickets purchase form",
-      "block with parallax effect",
-      "map"
+      "parallax effect",
+      "map",
+      "image explore slider"
     ]
   },
   {
