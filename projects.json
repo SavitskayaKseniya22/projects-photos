@@ -10,7 +10,7 @@
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/kanban/auth.png",
       "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/kanban/table.png"
     ],
-    "deploy": "https://project-management-app-6c958.web.app/",
+    "deploy": "https://awesomekanban.netlify.app/",
     "github": "https://github.com/SavitskayaKseniya22/kanban-app",
     "instruments": [
       "react",
@@ -26,7 +26,8 @@
       "react-hook-form",
       "react-toastify",
       "lint-staged",
-      "husky"
+      "husky",
+      "react-router"
     ],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/kanban/preview.png",
     "complexity": 5,
@@ -59,10 +60,12 @@
       "react-hook-form",
       "react-toastify",
       "lint-staged",
-      "husky"
+      "husky",
+      "react-router"
     ],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/remember-moments-app/preview.png",
-    "complexity": 5
+    "complexity": 5,
+    "features": ["mobile-layout"]
   },
   {
     "name": "Async race",
@@ -121,7 +124,8 @@
       "internationalization",
       "given answers sequence",
       "two types game",
-      "result"
+      "result",
+      "mobile-layout"
     ]
   },
   {
@@ -195,7 +199,8 @@
       "tickets purchase form",
       "parallax effect",
       "map",
-      "image explore slider"
+      "image explore slider",
+      "mobile-layout"
     ]
   },
   {
@@ -224,7 +229,13 @@
     ],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/shelter/preview.png",
     "complexity": 2,
-    "features": ["animals carousel", "modal", "burger menu", "pagination"]
+    "features": [
+      "animals carousel",
+      "modal",
+      "burger menu",
+      "pagination",
+      "mobile-layout"
+    ]
   },
   {
     "name": "Christmas tree",
@@ -273,7 +284,8 @@
       "prettier",
       "react-hook-form",
       "lint-staged",
-      "husky"
+      "husky",
+      "react-router"
     ],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/fallout-minesweeper/preview.png",
     "complexity": 3
@@ -302,19 +314,44 @@
     "github": "https://github.com/SavitskayaKseniya22/cv",
     "instruments": ["mapbox-gl"],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/portfolio/preview.png",
-    "complexity": 2
+    "complexity": 2,
+    "features": ["mobile-layout"]
   },
   {
     "name": "Lang app",
     "description": "App for learning English through games",
-    "task": "",
-    "date": ["29.09.2023", "27.11.2023"],
+    "task": "https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/rslang.md",
+    "date": ["29.09.2023", "23.01.2024"],
     "screenshots": [],
-    "deploy": "",
+    "deploy": "awesome-lang-app.netlify.app",
     "github": "https://github.com/SavitskayaKseniya22/lang-app",
-    "instruments": [],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/lang-app/preview.png",
-    "complexity": 5
+    "complexity": 5,
+    "instruments": [
+      "react",
+      "create-react-app",
+      "typescript",
+      "redux",
+      "styled-components",
+      "eslint",
+      "prettier",
+      "react-hook-form",
+      "react-router",
+      "react-beautiful-dnd",
+      "firebase",
+      "react-toastify"
+    ],
+    "features": [
+      "mobile-layout",
+      "autorization",
+      "textbook",
+      "sprint",
+      "audiocall",
+      "puzzles",
+      "constructor",
+      "user collection of words",
+      "user game statistics"
+    ]
   },
   {
     "name": "Logi mouse",
@@ -326,7 +363,8 @@
     "github": "https://github.com/SavitskayaKseniya22/Logi_mouse",
     "instruments": [],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/logi-mouse/preview.png",
-    "complexity": 1
+    "complexity": 1,
+    "features": ["mobile-layout"]
   },
   {
     "name": "Technomart",
@@ -338,7 +376,8 @@
     "github": "https://github.com/SavitskayaKseniya22/Technomart",
     "instruments": [],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/technomart/preview.png",
-    "complexity": 1
+    "complexity": 1,
+    "features": ["mobile-layout"]
   },
   {
     "name": "Gllacy",
@@ -350,6 +389,7 @@
     "github": "https://github.com/SavitskayaKseniya22/Gllacy",
     "instruments": [],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/gllacy/preview.png",
-    "complexity": 1
+    "complexity": 1,
+    "features": ["mobile-layout"]
   }
 ]
