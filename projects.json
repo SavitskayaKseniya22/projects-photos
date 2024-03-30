@@ -87,7 +87,6 @@
     "description": "Logitech mouse advertising landing page",
     "task": "",
     "date": ["08.03.2021", "15.03.2021"],
-
     "deploy": "https://logi-mouse.vercel.app",
     "github": "https://github.com/SavitskayaKseniya22/Logi_mouse",
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/logi-mouse/preview.png",
@@ -101,7 +100,7 @@
       "webpack",
       "normalize.css"
     ],
-    "features": ["mobile layout", "burger-menu", "carousel-surfaces"]
+    "features": ["mobile layout", "burger menu", "carousel surfaces"]
   },
   {
     "name": "Art quiz",
@@ -220,7 +219,8 @@
       "hidden menu",
       "modal feedback",
       "modal map",
-      "hover menu"
+      "hover menu",
+      "mobile layout"
     ]
   },
   {
