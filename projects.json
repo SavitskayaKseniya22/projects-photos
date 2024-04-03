@@ -30,7 +30,8 @@
       "netlify"
     ],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/fallout-minesweeper/preview.png",
-    "complexity": 3
+    "complexity": 3,
+    "isItReady": true
   },
   {
     "name": "Virtual keyboard",
@@ -48,7 +49,8 @@
       "normalize.css"
     ],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/virtual-keyboard/preview.png",
-    "complexity": 2
+    "complexity": 2,
+    "isItReady": true
   },
 
   {
@@ -80,7 +82,8 @@
       "internationalization",
       "random quote",
       "changing visibility for blocks"
-    ]
+    ],
+    "isItReady": true
   },
   {
     "name": "Logi mouse",
@@ -100,7 +103,8 @@
       "webpack",
       "normalize.css"
     ],
-    "features": ["mobile layout", "burger menu", "carousel surfaces"]
+    "features": ["mobile layout", "burger menu", "carousel surfaces"],
+    "isItReady": true
   },
   {
     "name": "Art quiz",
@@ -131,7 +135,8 @@
       "two types of game",
       "result of round",
       "mobile layout"
-    ]
+    ],
+    "isItReady": true
   },
   {
     "name": "Shelter",
@@ -159,7 +164,8 @@
       "burger menu",
       "pagination",
       "mobile layout"
-    ]
+    ],
+    "isItReady": true
   },
   {
     "name": "Museum",
@@ -193,7 +199,8 @@
       "map",
       "image explore slider",
       "mobile layout"
-    ]
+    ],
+    "isItReady": true
   },
   {
     "name": "Technomart",
@@ -221,7 +228,8 @@
       "modal map",
       "hover menu",
       "mobile layout"
-    ]
+    ],
+    "isItReady": true
   },
   {
     "name": "Lang app",
@@ -257,7 +265,8 @@
       "constructor game",
       "user collection of words",
       "user game statistics"
-    ]
+    ],
+    "isItReady": true
   },
   {
     "name": "Kanban",
@@ -292,7 +301,8 @@
       "drag and drop for columns and tasks",
       "creation for users, columns and tasks",
       "making changes to already made data"
-    ]
+    ],
+    "isItReady": true
   },
 
   {
@@ -313,7 +323,8 @@
       "normalize.css"
     ],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/async-race/preview.png",
-    "complexity": 4
+    "complexity": 4,
+    "isItReady": false
   },
   {
     "name": "Christmas tree",
@@ -340,7 +351,8 @@
       "effects such as music and snow animation",
       "an animated garland",
       "selection of toys in the collection"
-    ]
+    ],
+    "isItReady": true
   },
   {
     "name": "CV",
@@ -365,7 +377,8 @@
     ],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/portfolio/preview.png",
     "complexity": 2,
-    "features": ["mobile layout"]
+    "features": ["mobile layout"],
+    "isItReady": false
   },
   {
     "name": "Remember moments app",
@@ -393,6 +406,7 @@
     ],
     "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/remember-moments-app/preview.png",
     "complexity": 5,
-    "features": ["mobile layout"]
+    "features": ["mobile layout"],
+    "isItReady": false
   }
 ]
