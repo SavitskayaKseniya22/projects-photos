@@ -410,7 +410,7 @@
   },
   {
     "name": "ToDo",
-    "description": "To dod list",
+    "description": "To do list",
     "task": "",
     "date": ["17.04.2024", "19.04.2024"],
     "deploy": "https://todo-eosin-three.vercel.app/",
