@@ -385,7 +385,6 @@
     "description": "Travel planning app",
     "task": "",
     "date": ["05.05.2023", "29.12.2023"],
-
     "deploy": "",
     "github": "https://github.com/SavitskayaKseniya22/remember-moments-app",
     "instruments": [
@@ -408,5 +407,27 @@
     "complexity": 5,
     "features": ["mobile layout"],
     "isItReady": false
+  },
+  {
+    "name": "ToDo",
+    "description": "To dod list",
+    "task": "",
+    "date": ["17.04.2024", "19.04.2024"],
+    "deploy": "https://todo-eosin-three.vercel.app/",
+    "github": "https://github.com/SavitskayaKseniya22/todo",
+    "instruments": [
+      "react",
+      "typescript",
+      "eslint",
+      "next",
+      "heroicons",
+      "vercel",
+      "tailwind",
+      "jest"
+    ],
+    "preview": "https://raw.githubusercontent.com/SavitskayaKseniya22/projects-photos/main/photos/todo/preview.png",
+    "complexity": 1,
+    "features": ["mobile layout", "sort tasks"],
+    "isItReady": true
   }
 ]
